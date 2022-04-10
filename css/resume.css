@@ -145,6 +145,16 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
+@media (min-width: 640px) {
+  section.my-heading {
+    font-size: 20px !important;
+  }
+}
+
+section.my-heading {
+  font-size: 24px !important;
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
